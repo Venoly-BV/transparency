@@ -1,0 +1,8 @@
+{
+  "ledger": "cipher",
+  "seq": 207,
+  "entryCount": 196,
+  "headHash": "9b2dcec4b3641a78b34c97f80827b3ac7bc5f58216b42eb9b65126a346bd3fd5",
+  "recordedAt": "2026-10-23T22:10:00.474Z",
+  "note": "Head hash of the append-only, hash-chained Cipher audit ledger. Export the ledger, recompute the chain, and compare to this value to detect a retroactive rewrite up to this point."
+}
